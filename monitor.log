@@ -1,0 +1,55 @@
+2024-03-25 00:24:40,166 - Child process ID: 13812
+2024-03-25 00:24:40,303 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot
+2024-03-25 00:25:05,320 - New items detected: ['New folder']
+2024-03-25 00:25:10,480 - New items detected: ['.\\file_info.csv', 'New folder\\goofy_penguin_hpot.jpg']
+2024-03-25 00:25:20,485 - New items detected: ['New folder\\x', 'New folder\\y']
+2024-03-25 00:25:25,495 - New items detected: ['New folder\\x\\funny_robot_hpot.jpg', 'New folder\\y\\quirky_squirrel_hpot.jpg']
+2024-03-25 00:26:50,517 - Deleted items detected: ['New folder', 'New folder\\x', 'New folder\\y']
+2024-03-25 00:27:20,526 - New items detected: ['New folder']
+2024-03-25 00:27:25,529 - New items detected: ['New folder\\whimsical_pickle_hpot.jpg', 'New folder\\New folder']
+2024-03-25 00:27:30,535 - New items detected: ['New folder\\New folder\\goofy_squirrel_hpot.jpg']
+2024-03-25 00:28:40,552 - Deleted items detected: ['New folder', 'New folder\\New folder']
+2024-03-25 00:29:15,559 - New items detected: ['New folder']
+2024-03-25 00:29:20,562 - New items detected: ['New folder\\quirky_banana_hpot.jpg', 'New folder\\New folder']
+2024-03-25 00:29:25,568 - New items detected: ['New folder\\New folder\\goofy_pickle_hpot.jpg']
+2024-03-25 00:48:36,548 - Child process ID: 1724
+2024-03-25 00:48:36,664 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot
+2024-03-25 00:48:56,674 - New items detected: ['New folder (2)']
+2024-03-25 00:49:01,718 - New items detected: ['New folder (2)\\wacky_banana_hpot.jpg', 'New folder (2)\\x']
+2024-03-25 00:49:06,721 - New items detected: ['New folder (2)\\x\\funny_squirrel_hpot.jpg', 'New folder (2)\\x\\New folder']
+2024-03-25 00:49:11,725 - New items detected: ['New folder (2)\\x\\New folder\\wacky_robot_hpot.jpg']
+2024-03-25 00:50:11,741 - New items detected: ['New folder (3)']
+2024-03-25 00:50:16,745 - New items detected: ['New folder (3)\\funny_penguin_hpot.jpg', 'New folder (3)\\New folder']
+2024-03-25 00:50:21,749 - New items detected: ['New folder (3)\\New folder\\silly_penguin_hpot.jpg']
+2024-03-25 00:53:46,065 - Child process ID: 22496
+2024-03-25 00:53:46,176 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot
+2024-03-25 00:54:06,186 - New items detected: ['New folder (4)', 'New folder (4)\\New folder']
+2024-03-25 00:54:11,220 - New items detected: ['New folder (4)\\whimsical_robot_hpot.jpg', 'New folder (4)\\abc']
+2024-03-25 00:54:11,225 - Deleted items detected: ['New folder (4)\\New folder']
+2024-03-25 00:54:16,233 - New items detected: ['New folder (4)\\abc\\crazy_squirrel_hpot.jpg']
+2024-03-25 00:56:41,297 - New items detected: ['New folder (5)', 'New folder (5)\\xyz']
+2024-03-25 00:56:46,309 - New items detected: ['New folder (5)\\goofy_kangaroo_hpot.jpg', 'New folder (5)\\xyz\\whimsical_squirrel_hpot.jpg']
+2024-03-25 00:57:31,342 - New items detected: ['New folder (6)']
+2024-03-25 00:57:36,351 - New items detected: ['New folder (6)\\funny_robot_hpot.jpg', 'New folder (6)\\New folder']
+2024-03-25 00:57:41,358 - New items detected: ['New folder (6)\\s']
+2024-03-25 00:57:41,363 - Deleted items detected: ['New folder (6)\\New folder']
+2024-03-25 00:57:46,368 - New items detected: ['New folder (6)\\s\\funny_kangaroo_hpot.jpg']
+2024-03-25 01:01:01,609 - Child process ID: 20696
+2024-03-25 01:01:01,716 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot
+2024-03-25 01:01:11,718 - New items detected: ['New folder']
+2024-03-25 01:01:16,734 - New items detected: ['.\\file_info.csv', 'New folder\\goofy_banana_hpot.jpg', 'New folder\\New folder']
+2024-03-25 01:01:21,739 - New items detected: ['New folder\\m', 'New folder\\New folder\\silly_penguin_hpot.jpg']
+2024-03-25 01:01:26,743 - New items detected: ['New folder\\m\\funny_penguin_hpot.jpg']
+2024-03-25 01:04:08,423 - Child process ID: 3916
+2024-03-25 01:04:08,544 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot
+2024-03-25 01:04:18,550 - New items detected: ['New folder (2)']
+2024-03-25 01:04:23,576 - New items detected: ['New folder (2)\\wacky_squirrel_hpot.jpg']
+2024-03-25 01:06:33,611 - New items detected: ['New folder (3)']
+2024-03-25 01:06:38,614 - New items detected: ['New folder (3)\\whimsical_squirrel_hpot.jpg']
+2024-03-25 01:15:48,819 - New items detected: ['.\\x.py']
+2024-03-25 01:17:18,846 - New items detected: ['New folder (4)']
+2024-03-25 01:17:23,852 - New items detected: ['New folder (4)\\goofy_banana_hpot.jpg']
+2024-03-25 01:19:03,885 - New items detected: ['New folder (5)']
+2024-03-25 01:19:08,889 - New items detected: ['New folder (5)\\funny_banana_hpot.jpg']
+2024-04-08 20:54:31,615 - Child process ID: 13432
+2024-04-08 20:54:31,712 - Monitoring directory: C:\Users\Bhuvan Suresh\Desktop\Honeypot_Linux
