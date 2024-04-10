@@ -1,0 +1,14 @@
+test.txt
+*.enc
+/bait
+*.sh
+volatility
+*.raw
+/dump
+*.img
+*.pdf
+*.xlsx
+*.xls
+*.txt
+*.pyc
+*.md5git
