@@ -7,6 +7,9 @@ This code accomplishes the following
 5) notifies when the images are encrypted
 """
 
+
+#pip install notify2
+import notify2
 import csv
 import time
 import hashlib
@@ -36,6 +39,9 @@ class ImageChangeHandler(FileSystemEventHandler):
             if event.src_path == image_path:
                 if is_image_modified(image_path, last_hash):
                     print(f"Image {image_path} has been modified!")
+                    notify2.init("Image Modification Detected")
+                    n = notify2.Notification(f"Image {image_path} has been modified!")
+                    n.show()
                     # Notify user here (e.g., send email, display notification, etc.)
                 self.last_hashes[self.image_paths.index(image_path)] = calculate_hash(image_path)
 
